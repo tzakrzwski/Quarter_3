@@ -1,0 +1,28 @@
+p {
+	color: green;
+	text-align: justify;
+}
+h1 {
+	color: red;
+	text-align: center;
+}
+h2 {
+	color: purple;
+	text-align: center;
+}
+h3 {
+	color: olive;
+	text-align: center;
+}
+h4 {
+	color: blue;
+	text-align: center;
+}
+h5 {
+	color: aqua;
+	text-align: center;
+}
+h6 {
+	color: maroon;
+	text-align: center;
+}

@@ -1,0 +1,72 @@
+.wrapper {
+	background-color: #101820;
+	width: 80%;
+	padding: 25px;
+	border: black 5px solid;
+	margin: 0 auto;
+}
+
+section {
+	background-color:  #FFB81C;
+	color: #f0f0c9;
+	padding: 20px;
+	padding-top: 2px;
+	border: black 5px solid;
+	margin: 10px;
+}
+
+.pre_nfl {
+	background-color: #00539B;
+	color: #f0f0c9;
+	padding: 20px;
+	padding-top: 2px;
+	border: black 5px solid;
+	margin: 10px;
+}
+
+.pro {
+	background-color: #C60C30;
+	color: #f0f0c9;
+	padding: 20px;
+	padding-top: 2px;
+	border: black 5px solid;
+	margin: 10px;
+}
+
+.footer {
+	font-style: italic;
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	padding: 25px;
+}
+
+body {
+	background: radial-gradient(#A5ACAF 40% , #FFB81C);
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+img {
+	width: 50%;
+	float: left;
+	padding: 5px;
+}
+
+p {
+	clear: left;
+}
+
+.clearfix::after{
+	content: " ";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
