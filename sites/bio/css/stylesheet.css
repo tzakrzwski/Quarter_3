@@ -1,0 +1,62 @@
+.wrapper {
+	width: 85%;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 10px;
+	margin: 0 auto;
+}
+body {
+	background: radial-gradient(#d4ce46 40%, #0d9263);
+}
+h1 {
+	color: black;
+}
+p {
+	font-size: 20px;
+}
+img {
+	width: 80%;
+	display: inline;
+	outline: solid 5px black;
+	margin: 0 auto;
+}
+li {
+	font-size: 20px;
+	padding: 5px;
+	margin: 5px;
+}
+.liked {
+	columns: 2;
+}
+.noBorder {
+	outline: none;
+}
+footer {
+	width: 45%;
+	text-align: center;
+	background: rgba(255, 255, 255, 0.5);
+	margin: 0 auto;
+	border-radius: 25px;
+}
+a:link, a:visited {
+	text-decoration: none;
+	color: 	#494b4b;
+	border-radius: 25px;
+	background: #4aba91;
+	padding: 5px;
+}
+a:hover, a:active {
+	text-decoration: none;
+	color: #494b4b;
+	border-radius: 25px;
+	background: #d4ce46;
+	padding: 5px;
+}
+
+.profile {
+	width: 50%;
+	display: block;
+	outline: solid 5px black;
+}
+.updated {
+	font-style: italic;
+}
